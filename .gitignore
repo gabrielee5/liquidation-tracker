@@ -1,0 +1,5 @@
+venv
+bybit_trades.csv
+bybit_tickers.csv
+bybit_liquidations.csv
+__pycache__
